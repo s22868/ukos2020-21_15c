@@ -1,0 +1,32 @@
+Na dzisiejszych zajeciach zajelismy sie skryptami, poleceniami do powershella,
+
+Wykonalismy sporo zadan zwiazanych z powershellem,
+sprobowalem napisac wlasny skrypt, po czym go uruchomic,
+dowiedzialem sie zeby uruchomic skrypt na swoim komputerze, trzeba wlaczyc sobie do tego dostep,
+domyslnie jest wylaczony ze wzgledow bezpieczenstwa aby niechciane skrypty nie wykonywaly sie u nas na komputerze,
+poznalismy petle do wykonywania na obiektach oraz ich aliasy
+% = While-Object
+? - Where-Object
+
+Poznalismy tez sposoby wyswietalnia tego co zwraca nam konsola np
+Format-Table:
+-AutoSize
+-GirdView
+-Wrap
+
+ipmo - sluzy do importowania modulow - Import-Module
+
+BitsTransfer - sluzy do pobierania plikow z internetu / trzeba go najpierw zaimportowac
+
+ipmo BitsTransfer
+
+Start-BitsTransfer - source "url" - description "opis"
+
+Poznalismy tez operatory w ps np:
+ls - lower then / mniejsze niz 
+le - lower equal / mniejsze lub rowne z
+gt - greater then / wieksze niz
+ge - greater equal / wieksze lub rowne z 
+
+
+Poznalismy tez wiele innych polecen.
